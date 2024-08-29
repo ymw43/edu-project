@@ -1,5 +1,4 @@
 # edu-project
-Data analysis projects
 
 The repository contains projects completed during the "Data Analytics" course:
 
